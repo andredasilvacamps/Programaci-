@@ -7,6 +7,8 @@ public class MajorEdat1 {
 		
 		int edat;
 		
+		int guapo;
+		
 		System.out.println("Introdueix la teva edat");
 		edat = major.nextInt();
 		
