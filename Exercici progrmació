@@ -1,0 +1,25 @@
+
+public class MajorEdat1 {
+
+	public static void main(String[] args) {
+		
+		Scanner major = new Scanner(System.in);
+		
+		int edat;
+		
+		System.out.println("Introdueix la teva edat");
+		edat = major.nextInt();
+		
+		if (edat >= 18){
+			System.out.println("Ets major d'edat");
+			
+		}
+		else {
+			System.out.println("No ets major d'edat!");	
+				
+					}
+		
+			}
+	
+}
+
